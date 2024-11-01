@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a Senior Backend developer at 20scoopsCNX.<br>🌱 I’m currently learning next.js and SEO.
+🔭 I’m currently working as a Senior Backend developer at Nuvo.<br>🌱 I’m currently learning next.js and SEO.
 
 
 ## 🌐 Socials:
